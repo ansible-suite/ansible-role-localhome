@@ -1,0 +1,3 @@
+galaxy_info:
+  description: Redirect selected directories from user's home to alternative location
+  author: ansible-suite
